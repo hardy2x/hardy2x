@@ -9,7 +9,8 @@
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Eclipseide-282C34?logo=eclipseide&logoColor=2C2255" alt="TypeScript logo" title="TypeScript" height="25" /></span>
-<img src="https://skillicons.dev/icons?theme=light&i=java" />
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github-A6A9AA?logo=github&logoColor=181711" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
@@ -21,6 +22,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
+<img src="https://skillicons.dev/icons?theme=light&i=java" />
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
