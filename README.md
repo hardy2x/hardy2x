@@ -2,7 +2,7 @@
 <a href="#" target="_blank">
   <img src="hardy.svg" width="1200" alt="trungquandev-official" />
 </a>
-# Hi, I'm Hoang Hai Lai (huy2x) 👋 
+# Hi, I'm Lại Hoàng Hải (hardy2x) 👋 
 
 ## 👨‍💻 About Me
 
