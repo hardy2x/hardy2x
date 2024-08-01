@@ -2,6 +2,31 @@
 <a href="#" target="_blank">
   <img src="hardy.svg" width="1200" alt="trungquandev-official" />
 </a>
+# Hi, I'm Hoang Hai Lai (huy2x) 👋 
+
+## 👨‍💻 About Me
+
+- **FPT Polytechnic - Software Engineering Student** 🎓 (Final Year)
+- **Future Java Backend Engineer** ☕ with a passion for AI 🤖
+- **"As long as I breathe, I code!"** 
+- **Location:** Ho Chi Minh City, Vietnam 🇻🇳
+
+## 🚀 Interests
+
+- **Java Development:** Building robust and scalable backend systems.
+- **Artificial Intelligence:** Exploring the possibilities of AI and its applications in daily life.
+- **Problem Solving:** Finding creative solutions through software.
+
+## 🌱 Currently Learning
+
+- **Java Frameworks:** Spring Boot, Hibernate, etc.
+- **AI/ML Fundamentals:** Algorithms, data structures, and libraries.
+- **Cloud Technologies:** AWS, Azure, or Google Cloud (Updating...)
+
+## 🤝 Looking to Collaborate On
+
+- **Open Source Java Projects:** Especially those focused on backend development or AI integration.
+- **AI-Powered Applications:**  Let's build something innovative together!
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
