@@ -22,7 +22,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<img src="https://skillicons.dev/icons?theme=light&i=java" />
+<img src="https://skillicons.dev/icons?theme=light&i=java,vs code" />
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
