@@ -11,7 +11,7 @@
 <span><img src="https://img.shields.io/badge/Eclipseide-282C34?logo=eclipseide&logoColor=2C2255" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 <img src="https://skillicons.dev/icons?theme=light&i=java,spring" />
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
